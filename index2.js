@@ -2,7 +2,7 @@ import React from 'react'
 
 const index2 = () => {
   return (
-    <div>index2</div>
+    <div>aachal</div>
   )
 }
 
