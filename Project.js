@@ -31,7 +31,7 @@ const Program = () => {
 
   return (
     <div className="table-container">
-      <h2>City  Name Table</h2>
+      <h2>City</h2>
       <Link  to="/formop"className='btn btn-primary text-black'>AddCity</Link>
       <table className="table">
         <thead>
